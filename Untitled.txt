@@ -1,0 +1,8 @@
+
+CREATE VIEW allusers AS
+SELECT * FROM user;
+
+
+SELECT * FROM allusers;
+
+
